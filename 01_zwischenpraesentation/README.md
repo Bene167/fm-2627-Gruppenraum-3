@@ -10,9 +10,9 @@ Legen Sie hier ab:
 
 ## Paper
 
-**APA-Zitation:** _…_
+**APA-Zitation:** Wettstein, L., Wambsganss, T., Rietsche, R., & Scharowski, N. (2025). Measuring trust dynamics in AI-assisted decision-making: Insights from an experimental study. Proceedings of the 33rd European Conference on Information Systems (ECIS 2025).
 
-**DOI / Link:** _…_
+**DOI / Link:** https://aisel.aisnet.org/ecis2025/human_ai/human_ai/10
 
 ## Leitfragen für die Vorbereitung
 
